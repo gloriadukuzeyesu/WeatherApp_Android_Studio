@@ -11,4 +11,4 @@ You may or may not type in the country name.
 
 
 
-<img src="WeatherApp.gif" style="zoom:50%;" />
+<img src="WeatherApp.gif" style="zoom:33%;" />
