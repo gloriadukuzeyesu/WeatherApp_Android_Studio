@@ -38,6 +38,11 @@ local.properties
 .idea/datasources.xml
 .idea/dataSources.ids
 
+*build.gradle
+*gradle.properties
+*gradlew/
+*settings.gradle
+
 
                             
 # Android Studio
