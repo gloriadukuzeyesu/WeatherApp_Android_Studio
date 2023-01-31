@@ -1,15 +1,42 @@
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
+
 .externalNativeBuild
 .cxx
 local.properties
+
+*.iws
+.idea/libraries
+.idea/tasks.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+
+# built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Ignore gradle files
+.gradle/
+build/
+/captures
+.externalNativeBuild
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Mac OS X clutter
+*.DS_Store
+
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/dataSources.ids
+
+
+                            
+# Android Studio
+*.iml
+
